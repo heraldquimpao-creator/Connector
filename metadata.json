@@ -1,0 +1,8 @@
+{
+  "name": "Claude Office Skills Studio",
+  "description": "Interactive AI Skills Directory, Multi-Agent Office Playground, MCP Tools Runner, and Document Intelligence Suite for 77+ production skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
